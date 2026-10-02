@@ -1,6 +1,6 @@
 # hotmetal.ai
 
-Redirects every path on hotmetal.ai to https://collier.phd/consult/, the consulting
+Redirects every path on hotmetal.ai to https://ben.collier.phd/consult/, the consulting
 page for Hot Metal AI. Served by GitHub Pages; `404.html` is a copy of
 `index.html` so deep links redirect too.
 
